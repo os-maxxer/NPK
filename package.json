@@ -1,7 +1,4 @@
 {
   "name": "nyx-package-repo",
-  "private": true,
-  "scripts": {
-    "deploy": "wrangler pages deploy ."
-  }
+  "private": true
 }

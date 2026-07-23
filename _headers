@@ -1,0 +1,9 @@
+/* /repo.json
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=300
+
+/* /taskmanager/*
+  Cache-Control: public, max-age=300
+
+/* /nypkg/*
+  Cache-Control: public, max-age=300

@@ -65,12 +65,12 @@
         },
         {
             "name": "solpkg",
-            "version": "1.2.0",
+            "version": "1.2.1",
             "description": "Package manager: fetch with size, confirm, progress",
             "author": "Solis OS",
             "file": "solpkg/solpkg.spx",
             "legacy": "solpkg.npx",
-            "size": 20944,
+            "size": 21232,
             "slot": 6
         },
         {
@@ -135,12 +135,12 @@
         },
         {
             "name": "ck3",
-            "version": "1.2.0",
-            "description": "Crusader Kings III - Europe map, grand strategy",
+            "version": "1.3.0",
+            "description": "Crusader Kings III - real Europe coastline, land-cut provinces",
             "author": "Solis OS",
             "file": "ck3/ck3.spx",
             "legacy": "ck3.npx",
-            "size": 22176,
+            "size": 25320,
             "slot": 13
         }
     ]
